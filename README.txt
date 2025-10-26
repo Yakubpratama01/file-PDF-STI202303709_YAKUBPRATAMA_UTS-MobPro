@@ -1,7 +1,7 @@
 # Personal Journal - UTS Mobile Programming
 
-**Nama:** ILHAM ANDI SENTANA  
-**NIM:** STI202303345
+**Nama:** YAKUB PRATAMA  
+**NIM:** STI202303709
 
 ## Deskripsi
 Aplikasi sederhana untuk mencatat kegiatan harian (judul, deskripsi, tanggal, waktu, foto).
